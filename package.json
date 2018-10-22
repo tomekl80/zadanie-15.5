@@ -1,0 +1,22 @@
+{
+  "name": "zadanie-14.8",
+  "version": "1.0.0",
+  "description": "PROJEKT: Wyszukiwarka gifów",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "kodilla",
+    "nauka",
+    "gif"
+  ],
+  "author": "Tomasz Lis",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {}
+}
